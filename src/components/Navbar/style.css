@@ -1,0 +1,12 @@
+
+.buttonBar
+ {
+    height: 60px;
+    width: 100%;
+    background-image: url(../pics/topographic-map-background-concept_23-2148577575.jpg);
+
+}
+
+.buttons {
+    float: right;
+}
