@@ -1,12 +1,14 @@
 
-.buttonBar
+.navbar,
+.navbar
  {
-    height: 60px;
+    height: 95px;
     width: 100%;
-    background-image: url(../pics/topographic-map-background-concept_23-2148577575.jpg);
+    background-image: url(../pics/SpoonGraphics-Topographic-Map-3.png);
 
 }
 
-.buttons {
+.nav-item {
     float: right;
+    padding: 25px;
 }

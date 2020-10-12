@@ -1,0 +1,6 @@
+.card-body{
+    background-image: url(../pics/016.jpg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
