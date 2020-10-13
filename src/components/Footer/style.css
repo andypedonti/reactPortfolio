@@ -1,0 +1,16 @@
+.footer {
+    
+        height: 95px;
+        width: 100%;
+        background-image: url(../pics/SpoonGraphics-Topographic-Map-3.png);
+    
+    
+}
+
+.button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+
+}

@@ -3,12 +3,12 @@ import "./style.css";
 
 function Footer() {
     return (
-        <footer>
-            <button>
+        <footer className="footer">
+            <button className="button">
                 <a href="mailto:andy.pedonti@gmail.com">Email</a>
             </button>
-            <button>
-                <a href="github.com/andypedonti">
+            <button className="button">
+                <a href="https://www.github.com/andypedonti">
                     github
                 </a>
             </button>
