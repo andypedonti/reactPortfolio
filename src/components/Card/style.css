@@ -11,3 +11,11 @@
     margin: 0 auto;
 
 }
+
+img{
+    background-image: url(../pics/018.jpg);
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 2;
+}
