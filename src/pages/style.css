@@ -5,8 +5,10 @@
 
 .portfolio-containers{
     display: flex;
-    align-items: flex-end;
-    justify-content:space-evenly;
-    flex-direction: row;
-    width: 100%;
+    flex-flow: row wrap;
+    align-content: flex-start;
+    position: relative;
+    justify-content:space-around;
+   
+    width: 80%;
 }
