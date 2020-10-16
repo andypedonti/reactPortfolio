@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6481c40.chunk.css",
-    "main.js": "/static/js/main.3a66580e.chunk.js",
-    "main.js.map": "/static/js/main.3a66580e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
-    "static/js/2.16245804.chunk.js": "/static/js/2.16245804.chunk.js",
-    "static/js/2.16245804.chunk.js.map": "/static/js/2.16245804.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3d5925e95011e933a10cd79e522fe8fd.js": "/precache-manifest.3d5925e95011e933a10cd79e522fe8fd.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b6481c40.chunk.css.map": "/static/css/main.b6481c40.chunk.css.map",
-    "static/js/2.16245804.chunk.js.LICENSE.txt": "/static/js/2.16245804.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/static/media/SpoonGraphics-Topographic-Map-3.c18e8bc0.png",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/reactPortfolio/static/css/main.fbc9917f.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.6249b6fa.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.6249b6fa.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.506f4783.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.506f4783.js.map",
+    "static/js/2.4a732287.chunk.js": "/reactPortfolio/static/js/2.4a732287.chunk.js",
+    "static/js/2.4a732287.chunk.js.map": "/reactPortfolio/static/js/2.4a732287.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "precache-manifest.42034d566a8e882b76a413d9147a7fc1.js": "/reactPortfolio/precache-manifest.42034d566a8e882b76a413d9147a7fc1.js",
+    "service-worker.js": "/reactPortfolio/service-worker.js",
+    "static/css/main.fbc9917f.chunk.css.map": "/reactPortfolio/static/css/main.fbc9917f.chunk.css.map",
+    "static/js/2.4a732287.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.4a732287.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/reactPortfolio/static/media/SpoonGraphics-Topographic-Map-3.c18e8bc0.png",
+    "static/media/logo.svg": "/reactPortfolio/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e312f208.js",
-    "static/js/2.16245804.chunk.js",
-    "static/css/main.b6481c40.chunk.css",
-    "static/js/main.3a66580e.chunk.js"
+    "static/js/runtime-main.506f4783.js",
+    "static/js/2.4a732287.chunk.js",
+    "static/css/main.fbc9917f.chunk.css",
+    "static/js/main.6249b6fa.chunk.js"
   ]
 }
