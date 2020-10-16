@@ -5,12 +5,11 @@
     background-repeat: no-repeat;
 }
 .card-body{
-    background: white;
-    opacity:0.5;
+    
     width: 90%;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-template-columns: 33.3% 66.6%;
 }
 
 img{
