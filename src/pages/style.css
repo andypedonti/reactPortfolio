@@ -16,3 +16,9 @@
 .card-image-top{
     background-image: url(../components/pics/016.jpg);
 }
+.columnn{
+    float: left;
+    width: 33.3%;
+
+}
+
