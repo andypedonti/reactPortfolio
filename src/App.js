@@ -23,8 +23,8 @@ class App extends React.Component {
         <NavBar />
         <Wrapper>
           <Route exact path="/" component={About} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/portfolio" component={Portfolio} />
+          <Route path="/about" component={About} />
+          <Route path="/portfolio" component={Portfolio} />
         </Wrapper>
         <Footer />
 

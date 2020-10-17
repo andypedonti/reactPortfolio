@@ -26,3 +26,6 @@ img{
     width: 33.3%;
 
 }
+.portfolio-containers{
+display: grid;
+}
