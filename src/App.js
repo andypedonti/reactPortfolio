@@ -25,7 +25,7 @@ class App extends React.Component {
           <Route exact path="/" component={About} />
           <Route exact path="/about" component={About} />
           <Route exact path="/portfolio" component={Portfolio} />
-          <Route exact path="/reactPortfolio" component={About} />
+          <Route path="/reactPortfolio" component={About} />
         </Wrapper>
         <Footer />
 
