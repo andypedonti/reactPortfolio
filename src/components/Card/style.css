@@ -10,6 +10,7 @@
     margin: 0 auto;
     display: grid;
     grid-template-columns: 33.3% 66.6%;
+    
 }
 
 img{
@@ -26,13 +27,15 @@ img{
     width: 33.3%;
 
 }
-.portfolio-containers{
-display: flex;
-justify-content: space-evenly;
-width: 90%;
-margin: 0 auto;
-height: 100px;
-}
+
+
+
+
 .portfolio-item{
-    height: 40px;
+    max-width: 225px;
+    height:180px;
+    border: 5px;
+    margin: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   
 }

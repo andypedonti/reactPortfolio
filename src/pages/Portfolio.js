@@ -12,10 +12,13 @@ function Portfolio() {
                     portfolioContent.map((item) =>
 
                         <div className="portfolio-item">
-                            <a href={item.url}>
-                                <h2>{item.title}</h2>
+                            <a style={{ color: '#2F4F4F' }} href={item.url}>
+                                <h3>{item.title}</h3>
+                            </a>
+                            <p>{item.description}</p>
+                            <a style={{ color: '#2F4F4F' }} href={item.github}>
+                                <p>GitHub Repository</p>
                                 <img src={item.image}></img>
-                                <p>{item.description}</p>
                             </a>
                         </div>
                     )
