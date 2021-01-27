@@ -15,7 +15,7 @@ export const portfolioContent = [
         title: "passwordGenerator",
         url: "https://andypedonti.github.io/passWord/",
         description: "A Program that generates a password using JavaScript",
-        github: "https://github.com/andypedonti/passwordGenerator"
+        github: "https://github.com/andypedonti/passWord"
     },
     {
         title: "javaScriptQuiz",
