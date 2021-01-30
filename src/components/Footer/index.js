@@ -10,11 +10,11 @@ function Footer() {
 
           <a href="https://www.linkedin.com/in/andy-pedonti/"
           target="_blank" rel="noopener noreferrer">
-              <SocialLogo icon="linkedin" size={40} />
+              <SocialLogo className="social" icon="linkedin" size={40} />
           </a>
           <a href="https://github.com/andypedonti"
           target="_blank" rel="noopener noreferrer">
-                <SocialLogo icon="github" size={40} />
+                <SocialLogo className="social" icon="github" size={40} />
           </a>
             
            

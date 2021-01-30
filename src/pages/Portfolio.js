@@ -16,6 +16,7 @@ function Portfolio() {
                     portfolioContent.map((item) =>
 
                         <div className="portfolio-item">
+                            <div className="icon-bar">
                             <DevIcon icon={item.css} height={20} width={20}/>
                             <DevIcon icon={item.javascript} height={20} width={20}/>
                             <DevIcon icon={item.html} height={20} width={20}/>
@@ -26,6 +27,7 @@ function Portfolio() {
                             <DevIcon icon={item.mysql} height={20} width={20}/>
                             <DevIcon icon={item.bootstrap} height={20} width={20}/>
                             <DevIcon icon={item.npm} height={20} width={20}/>
+                            </div>
                         
 
                             <a style={{ color: '#2F4F4F' }} href={item.url} target="_blank" rel="noopener noreferrer">
