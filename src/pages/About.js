@@ -11,7 +11,7 @@ function About() {
                 <div className="item-a">
 
 
-                    <img src="./components/pics/018.jpg" height="225" width="150" >
+                    <img  alt="" src="./components/pics/018.jpg" height="225" width="150" >
 
 
                     </img>

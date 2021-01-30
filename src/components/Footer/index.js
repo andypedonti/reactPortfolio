@@ -1,17 +1,24 @@
 import React from "react";
 import "./style.css";
+import SocialLogo from 'social-logos';
+
 
 function Footer() {
+   
     return (
         <footer className="footer">
-            <button className="button">
-                <a href="mailto:andy.pedonti@gmail.com">Email</a>
-            </button>
-            <button className="button">
-                <a href="https://www.github.com/andypedonti">
-                    github
-                </a>
-            </button>
+
+          <a href="https://www.linkedin.com/in/andy-pedonti/"
+          target="_blank" rel="noopener noreferrer">
+              <SocialLogo icon="linkedin" size={40} />
+          </a>
+          <a href="https://github.com/andypedonti"
+          target="_blank" rel="noopener noreferrer">
+                <SocialLogo icon="github" size={40} />
+          </a>
+            
+           
+           
         </footer>
     )
 }

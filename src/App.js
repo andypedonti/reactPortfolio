@@ -1,7 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
-import { render } from '@testing-library/react';
+
 import NavBar from './components/Navbar';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Wrapper from "./components/Wrapper";
@@ -12,7 +12,8 @@ import Portfolio from "./pages/Portfolio";
 
 class App extends React.Component {
 
-
+  
+  
 
 
 
