@@ -1,11 +1,11 @@
 import React from "react";
-import Card from "../components/Card";
+
 import "./style.css";
 
 
 function About() {
     return (
-        <Card>
+        
             <div class="card-body">
 
                 <div className="item-a">
@@ -15,7 +15,7 @@ function About() {
 
 
                     </img>
-                    <h4 class="card-title">About Me</h4>
+                    
                 </div>
 
                 <div className="item-b">
@@ -26,7 +26,7 @@ function About() {
 
 
             </div>
-        </Card>
+        
 
     )
 }

@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "../components/Card";
+
 import { portfolioContent } from "./portfolioContent.js";
 import "../components/Card/style.css";
 import normalizeCSSUnit from 'normalize-css-unit';
@@ -10,7 +10,7 @@ function Portfolio() {
     normalizeCSSUnit(100);
     return (
 
-        <Card>
+        
             <div className="portfolio-containers">
                 {
                     portfolioContent.map((item) =>
@@ -30,7 +30,7 @@ function Portfolio() {
                             </div>
                         
 
-                            <a style={{ color: '#2F4F4F' }} href={item.url} target="_blank" rel="noopener noreferrer">
+                            <a style={{ color: ' #907562' }} href={item.url} target="_blank" rel="noopener noreferrer">
                                 <h3>{item.title}</h3>
                             </a>
                             <p>{item.description}</p>
@@ -43,7 +43,7 @@ function Portfolio() {
                 }
 
             </div>
-        </Card >
+        
     )
 }
 

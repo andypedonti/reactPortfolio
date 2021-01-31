@@ -1,6 +1,6 @@
-.card{
+.body{
     background-image: url(../pics/016.jpg);
-    height: 500px;
+    
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -9,7 +9,7 @@
     width: 90%;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 33.3% 66.6%;
+    grid-template-columns: 20% 80%;
     
 }
 
@@ -31,11 +31,3 @@ img{
 
 
 
-.portfolio-item{
-    max-width: 225px;
-    height:180px;
-    border: 5px;
-    margin: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-   
-}

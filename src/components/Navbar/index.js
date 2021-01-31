@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "./style.css";
 
 function NavBar() {
@@ -8,27 +7,7 @@ function NavBar() {
             <h1 className="navbar-nav">Andy Pedonti</h1>
             <div>
                 <ul className="navbar-nav">
-                    <li className="nav-item">
-                        <Link
-                            to="/"
-                            className={
-                                window.location.pathname === "/" || window.location.pathname === "/about"
-                            }
-                        >
-                            About
-                        </Link>
-                    </li>
-                    <li className="nav-item">
-                        <Link
-                            to="/portfolio"
-                            className={
-                                window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
-                        >
-
-                            Portfolio
-                        </Link>
-
-                    </li>
+                    
                 </ul>
             </div>
         </nav>

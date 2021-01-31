@@ -2,12 +2,17 @@
     color: #2B3D41;
     background: whitesmoke;
    
-    border-radius: 25px;
+    border-radius: 5px;
     height: 250px;
     width: 250px;
-    border: 5px;
-    border-color: #83A0A0;
+    
     border-style: solid;
+    border-color: #83A0A0;
+   
+    
+    
+    margin: 5px;
+    
 }
 
 .portfolio-containers{
@@ -40,7 +45,6 @@
 }
 
 .icon-bar {
-    background-color: #907562;
-    border-radius: 25px;
+  
 }
 
