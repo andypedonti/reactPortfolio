@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63832438b55e4bd804e655d6f838ed6a",
+    "revision": "39316b1efde5181fd034322aec2fb4fd",
     "url": "/reactPortfolio/index.html"
   },
   {
-    "revision": "895a99374d4b8cd2baae",
-    "url": "/reactPortfolio/static/css/main.37769b4f.chunk.css"
+    "revision": "504d7b359adf33ff4d71",
+    "url": "/reactPortfolio/static/css/main.a292315b.chunk.css"
   },
   {
-    "revision": "d96df0231232e79fe87b",
-    "url": "/reactPortfolio/static/js/2.4a732287.chunk.js"
+    "revision": "5061fd294147b16fcfa6",
+    "url": "/reactPortfolio/static/js/2.814c38c1.chunk.js"
   },
   {
-    "revision": "dd207babaeb913476be46155cc504ef5",
-    "url": "/reactPortfolio/static/js/2.4a732287.chunk.js.LICENSE.txt"
+    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
+    "url": "/reactPortfolio/static/js/2.814c38c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "895a99374d4b8cd2baae",
-    "url": "/reactPortfolio/static/js/main.c256a8bc.chunk.js"
+    "revision": "504d7b359adf33ff4d71",
+    "url": "/reactPortfolio/static/js/main.cda2108d.chunk.js"
   },
   {
     "revision": "2f4d685e618f546a2f8a",
@@ -34,9 +34,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c18e8bc0322b95c2b4f2826dca7eb9f6",
     "url": "/reactPortfolio/static/media/SpoonGraphics-Topographic-Map-3.c18e8bc0.png"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/reactPortfolio/static/media/logo.5d5d9eef.svg"
   }
 ]);

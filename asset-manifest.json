@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.37769b4f.chunk.css",
-    "main.js": "/reactPortfolio/static/js/main.c256a8bc.chunk.js",
-    "main.js.map": "/reactPortfolio/static/js/main.c256a8bc.chunk.js.map",
+    "main.css": "/reactPortfolio/static/css/main.a292315b.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.cda2108d.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.cda2108d.chunk.js.map",
     "runtime-main.js": "/reactPortfolio/static/js/runtime-main.506f4783.js",
     "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.506f4783.js.map",
-    "static/js/2.4a732287.chunk.js": "/reactPortfolio/static/js/2.4a732287.chunk.js",
-    "static/js/2.4a732287.chunk.js.map": "/reactPortfolio/static/js/2.4a732287.chunk.js.map",
+    "static/js/2.814c38c1.chunk.js": "/reactPortfolio/static/js/2.814c38c1.chunk.js",
+    "static/js/2.814c38c1.chunk.js.map": "/reactPortfolio/static/js/2.814c38c1.chunk.js.map",
     "index.html": "/reactPortfolio/index.html",
-    "precache-manifest.11edcb86a97c09b46e32daff17f7278b.js": "/reactPortfolio/precache-manifest.11edcb86a97c09b46e32daff17f7278b.js",
+    "precache-manifest.5dedc2e00bb2c19c4b34ce7b3253e749.js": "/reactPortfolio/precache-manifest.5dedc2e00bb2c19c4b34ce7b3253e749.js",
     "service-worker.js": "/reactPortfolio/service-worker.js",
-    "static/css/main.37769b4f.chunk.css.map": "/reactPortfolio/static/css/main.37769b4f.chunk.css.map",
-    "static/js/2.4a732287.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.4a732287.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/reactPortfolio/static/media/SpoonGraphics-Topographic-Map-3.c18e8bc0.png",
-    "static/media/logo.svg": "/reactPortfolio/static/media/logo.5d5d9eef.svg"
+    "static/css/main.a292315b.chunk.css.map": "/reactPortfolio/static/css/main.a292315b.chunk.css.map",
+    "static/js/2.814c38c1.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.814c38c1.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/reactPortfolio/static/media/SpoonGraphics-Topographic-Map-3.c18e8bc0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.506f4783.js",
-    "static/js/2.4a732287.chunk.js",
-    "static/css/main.37769b4f.chunk.css",
-    "static/js/main.c256a8bc.chunk.js"
+    "static/js/2.814c38c1.chunk.js",
+    "static/css/main.a292315b.chunk.css",
+    "static/js/main.cda2108d.chunk.js"
   ]
 }
